@@ -9,3 +9,17 @@ Sales Analytics
 • Target Alignment: Ensured alignment with the strategic objectives by closely scrutinizing market performance against predefined targets.
 
 • In-Depth Insights: Generated comprehensive insights that shed light on critical aspects of sales operations.
+
+Tools/Features Used:-
+
+• Microsoft Excel
+
+• Power Query (Data Cleaning & Transformation)
+
+• Power Pivot (Data Modeling)
+
+• Pivot Table (Data Summarization)
+
+• DAX Measures (To create Calculated Columns)
+
+• Conditional Formatting (To highlight the data points that are interesting to stakeholders)
